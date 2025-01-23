@@ -1,0 +1,86 @@
+[
+    {
+    "id": 1,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 2,
+    "name": "Andrey",
+    "reiting": 90,
+    "position": 2
+  },
+  {
+    "id": 3,
+    "name": "Marina",
+    "reiting": 80,
+    "position": 3
+  },
+  {
+    "id": 4,
+    "name": "Anton",
+    "reiting": 70,
+    "position": 4
+  },
+  {
+    "id": 5,
+    "name": "Lesha",
+    "reiting": 60,
+    "position": 5
+  },
+  {
+    "id": 6,
+    "name": "Egor",
+    "reiting": 50,
+    "position": 6
+  },
+  {
+    "id": 7,
+    "name": "Vlad",
+    "reiting": 40,
+    "position": 7
+  },
+  {
+    "id": 8,
+    "name": "Maksim",
+    "reiting": 30,
+    "position": 8
+  },
+  {
+    "id": 9,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 10,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 11,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 12,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 13,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  },
+  {
+    "id": 14,
+    "name": "Gosha",
+    "reiting": 100,
+    "position": 1
+  }
+]
